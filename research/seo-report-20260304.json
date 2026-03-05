@@ -1,0 +1,120 @@
+{
+  "generated_at": "2026-03-04T19:56:51.183086",
+  "keywords": [
+    "Polymarket",
+    "prediction markets",
+    "crypto prediction",
+    "election odds",
+    "political betting",
+    "market odds",
+    "prediction market analysis",
+    "Polymarket scanner",
+    "crypto analytics",
+    "prediction market data"
+  ],
+  "opportunities": [
+    {
+      "keyword": "Polymarket",
+      "search_volume": "TBD",
+      "competition": "TBD",
+      "current_rank": "TBD",
+      "opportunity_score": "TBD",
+      "recommendation": "Create content targeting 'Polymarket'"
+    },
+    {
+      "keyword": "prediction markets",
+      "search_volume": "TBD",
+      "competition": "TBD",
+      "current_rank": "TBD",
+      "opportunity_score": "TBD",
+      "recommendation": "Create content targeting 'prediction markets'"
+    },
+    {
+      "keyword": "crypto prediction",
+      "search_volume": "TBD",
+      "competition": "TBD",
+      "current_rank": "TBD",
+      "opportunity_score": "TBD",
+      "recommendation": "Create content targeting 'crypto prediction'"
+    },
+    {
+      "keyword": "election odds",
+      "search_volume": "TBD",
+      "competition": "TBD",
+      "current_rank": "TBD",
+      "opportunity_score": "TBD",
+      "recommendation": "Create content targeting 'election odds'"
+    },
+    {
+      "keyword": "political betting",
+      "search_volume": "TBD",
+      "competition": "TBD",
+      "current_rank": "TBD",
+      "opportunity_score": "TBD",
+      "recommendation": "Create content targeting 'political betting'"
+    },
+    {
+      "keyword": "market odds",
+      "search_volume": "TBD",
+      "competition": "TBD",
+      "current_rank": "TBD",
+      "opportunity_score": "TBD",
+      "recommendation": "Create content targeting 'market odds'"
+    },
+    {
+      "keyword": "prediction market analysis",
+      "search_volume": "TBD",
+      "competition": "TBD",
+      "current_rank": "TBD",
+      "opportunity_score": "TBD",
+      "recommendation": "Create content targeting 'prediction market analysis'"
+    },
+    {
+      "keyword": "Polymarket scanner",
+      "search_volume": "TBD",
+      "competition": "TBD",
+      "current_rank": "TBD",
+      "opportunity_score": "TBD",
+      "recommendation": "Create content targeting 'Polymarket scanner'"
+    },
+    {
+      "keyword": "crypto analytics",
+      "search_volume": "TBD",
+      "competition": "TBD",
+      "current_rank": "TBD",
+      "opportunity_score": "TBD",
+      "recommendation": "Create content targeting 'crypto analytics'"
+    },
+    {
+      "keyword": "prediction market data",
+      "search_volume": "TBD",
+      "competition": "TBD",
+      "current_rank": "TBD",
+      "opportunity_score": "TBD",
+      "recommendation": "Create content targeting 'prediction market data'"
+    }
+  ],
+  "competitor_gaps": [
+    {
+      "competitor": "Dune Analytics",
+      "their_strength": "Crypto dashboards",
+      "our_opportunity": "Prediction market specific dashboards"
+    },
+    {
+      "competitor": "Nansen",
+      "their_strength": "Wallet tracking",
+      "our_opportunity": "Prediction market whale tracking"
+    },
+    {
+      "competitor": "Arkham",
+      "their_strength": "Entity labeling",
+      "our_opportunity": "Market maker identification"
+    }
+  ],
+  "recommendations": [
+    "Create landing pages for each keyword cluster",
+    "Build comparison pages vs competitors",
+    "Publish weekly market analysis targeting long-tail keywords",
+    "Create embeddable widgets for backlink acquisition"
+  ]
+}
